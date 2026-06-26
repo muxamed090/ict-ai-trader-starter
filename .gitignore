@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js build output
+.next/
+**/.next/
+
+# Local env files (containing secrets)
+.env*.local
+**/.env*.local
+
+# System / IDE files
+.DS_Store
+.vscode/
+.gemini/
+.idea/
